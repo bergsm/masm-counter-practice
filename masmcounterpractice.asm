@@ -33,7 +33,23 @@
 		;NOT truncated to nearest integer
 	;Standard deviation rounded to the nearest integer
 	;Parting message
-;
+
+;Further Project Constraints: 
+;1. The main procedure must be modularized into commented logical sections. 
+;1.1. Procedures are not required this time. 
+;2. The upper limit should be defined as a constant. 
+;3. The maximum and minimum values must be stored in named variables. 
+;3.1. Initialize both max and min values to zero. 
+;4. The code and the output must be well-formatted. 
+;5. Apply the usual requirements regarding 
+;5.1. Documentation. 
+;5.2. Readability. 
+;5.3. User-friendliness 
+;6. The program must be fully documented. This includes: 
+;6.1. Complete header block for identification. 
+;6.2. Description. 
+;6.3. Comment outline to explain each section .of code. ;
+
 INCLUDE Irvine32.inc
 
 ; (insert constant definitions here)
